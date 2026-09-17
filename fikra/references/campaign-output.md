@@ -1,6 +1,6 @@
 # Campaign Output
 
-Use this reference when producing either Fikra campaign mode or a short-video package.
+Use this reference when producing either Fikra campaign mode, short videos, or a long YouTube video.
 
 Adapt the amount of output to the user's request. If the user asks for one platform or one format, provide only the relevant sections rather than forcing a full campaign.
 
@@ -23,7 +23,7 @@ Deliver a compact, usable package:
 
 1. A short objective/audience summary and one focused angle.
 2. Complete copy for every requested platform, adapted to its role and format, with its caption and call to action.
-3. A brief video script with target duration, hook, spoken text, a compact shot sequence, and ending.
+3. When video serves the selected scope, a brief video script with target duration, hook, spoken text, a compact shot sequence, and ending.
 4. Visual direction covering composition, orientation, brand elements, and on-screen text.
 5. Relevant credibility notes and delivery status.
 
@@ -31,7 +31,7 @@ Do not add the full angle bank, A/B plan, carousel, repurposing map, or executio
 
 ## Comprehensive Campaign (حملة متكاملة)
 
-Use the structure below: multiple angles, detailed platform drafts, full carousel copy, a full short-video script, testing alternatives, repurposing, execution schedule, and indicators. Adapt carousel delivery to the selected platform; do not add an unrequested platform. If the user explicitly excludes a format, respect that and state the scope adjustment.
+Use the structure below: multiple angles, detailed platform drafts, carousel copy and short- or long-video scripts where relevant, testing alternatives, repurposing, execution schedule, and indicators. Choose formats for the objective and audience and explain why; do not impose every format. Adapt carousel delivery to the selected platform; do not add an unrequested platform. If the user explicitly excludes a format, respect that and state the scope adjustment.
 
 ## 1. Campaign Summary
 
@@ -137,6 +137,18 @@ Provide either:
 
 For a thread, make every post add a new point.
 
+### Facebook
+
+Choose relevant page text/image posts, single or supported multi-image/carousel posts, Reels or Stories. Deliver final copy, image/frame order, caption or video description and a natural interaction prompt. A Reel includes spoken/on-screen text, shots, target duration and pacing adapted for Facebook. Include proposed timing/timezone and measurement aligned with the goal. Verify account/tool format support at execution time; do not automatically copy Instagram content.
+
+### YouTube
+
+Identify whether the requested item is a Short, long video, supported Community Post, thumbnail brief/image, script or actual video file. For Shorts deliver spoken and on-screen text, shots, duration and description. For long videos follow [platforms.md](platforms.md): duration scope, honest opening, section/scene structure, narration, ongoing value and natural closing invitation.
+
+Include applicable titles, descriptions, subject keywords (not presumed trends), thumbnail brief/text, and translation/subtitle requirements. Only create final timestamped chapters from a final video with measured timings; draft section outlines remain untimed or explicitly estimated. Community Posts depend on account/tool support. Repurposed Shorts/excerpts require actual source footage for production; without it, deliver only a labeled plan.
+
+Track scripts, thumbnails, subtitle files and produced videos separately. Confirm actual files and their required properties before calling them ready. A script/production prompt is never a video ready for upload.
+
 ## 6. Hook Bank
 
 Provide five varied hooks using different approaches, such as:
@@ -211,6 +223,8 @@ Show how the campaign can become:
 - A follow-up post
 - A visual quote
 - A second short video
+- A Facebook adaptation with revised context and call to action
+- Shorts or excerpts from an actual long YouTube video, when source footage exists
 - A responsibly reused post after an appropriate interval
 
 Repurposed content must add a new function or perspective.
@@ -250,6 +264,12 @@ Conclude with:
 Do not mark the campaign ready when a material unsupported claim remains.
 
 ## Production and Execution Handoff
+
+Deliver in distinct stages: completed plan/copy, selected actual media production, preview, and separately authorized publishing/analytics. After a full campaign plan or package with no explicit next step, use the filtered question and routes in [execution-and-connections.md](execution-and-connections.md); do not stop at scripts alone or assume consent to continue. Skip the menu for an explicit step or text-only request.
+
+Track the chosen route and asset subset in the existing package's `execution-status.md`, updating it and the package after each stage. Preserve originals and edited versions under each platform. Add `facebook/` and `youtube/` only when used, with video text in `scripts/`, actual video files in `videos/`, actual images in `images/`, actual thumbnails in `thumbnails/` and actual subtitle files in `subtitles/` as required. Record each item separately in `execution-status.md`; an absent file has a pending status, not a placeholder media file. Text readiness, inspected media readiness, preview review and actual publication are separate statuses. Required media without actual files remain explicitly pending/blocked; never create pretend files. Conversation-only text delivery does not require a saved package.
+
+For manual delivery, provide an organized, downloadable package when file delivery is requested: a contents guide with working relative file links, platform copy and media order, actual assets and their dimensions/formats, proposed timing/timezone and any missing production/manual steps. A folder or archive is ready only if it actually exists and is accessible; preserve original and edited versions and identify which version to use. The user may choose this route without connecting accounts.
 
 List actual files/links separately from scripts and briefs. For manual publishing, package platform copy, captions, carousel text, available assets, production instructions for missing media, and proposed timing. Do not call missing media finished.
 

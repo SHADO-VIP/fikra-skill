@@ -4,9 +4,9 @@
 
 **مهارة عربية تحوّل فكرة واحدة إلى حملة مختصرة أو متكاملة للسوشيال ميديا.**
 
-Fikra analyzes an idea before writing, proposes different content angles, adapts the campaign to each platform, creates short-video scripts and visual briefs, and reviews the final output for credibility, originality, Arabic quality, and execution readiness.
+Fikra analyzes an idea before writing, proposes different content angles, adapts the campaign to each platform, creates short- and long-video scripts and visual briefs, and reviews the final output for credibility, originality, Arabic quality, and execution readiness.
 
-تحلل فِكرة الموضوع قبل الكتابة، وتقترح زوايا مختلفة، وتكيّف المحتوى لكل منصة، وتنتج سيناريوهات للفيديوهات القصيرة وموجزات بصرية، ثم تراجع الحملة من حيث المصداقية والأصالة وجودة العربية وقابلية التنفيذ.
+تحلل فِكرة الموضوع قبل الكتابة، وتقترح زوايا مختلفة، وتكيّف المحتوى لكل منصة، وتنتج سيناريوهات للفيديوهات القصيرة والطويلة وموجزات بصرية، ثم تراجع الحملة من حيث المصداقية والأصالة وجودة العربية وقابلية التنفيذ.
 
 ## Campaign Modes | أوضاع الحملة
 
@@ -26,6 +26,9 @@ Depending on the selected mode, Fikra can produce:
 - Platform-specific social media posts
 - Instagram carousel structures
 - Instagram Reel and TikTok scripts
+- Facebook page posts, Reels and Stories
+- YouTube Shorts and long-video scripts, titles, descriptions and thumbnail briefs
+- Community Post drafts where appropriate and supported
 - LinkedIn posts
 - X posts or threads
 - Hook variations
@@ -43,6 +46,9 @@ Depending on the selected mode, Fikra can produce:
 - منشورات مخصصة لكل منصة
 - هيكل Carousel لمنصة Instagram
 - سيناريوهات Reels وTikTok
+- منشورات صفحات Facebook وReels وStories
+- سيناريوهات YouTube Shorts والفيديو الطويل وعناوينها وأوصافها وموجزات صورها المصغرة
+- مسودات Community Posts عندما تكون مناسبة ومدعومة
 - منشورات LinkedIn
 - منشورات أو سلاسل X
 - خطافات متنوعة
@@ -55,16 +61,26 @@ Depending on the selected mode, Fikra can produce:
 
 ## Supported Platforms | المنصات المدعومة
 
-Fikra provides guidance for:
+The first release provides guidance for these six platforms:
 
 - Instagram
 - TikTok
 - LinkedIn
 - X
+- Facebook
+- YouTube
 
-Facebook and YouTube are planned for later versions.
+يدعم الإصدار الأول هذه المنصات الست: Instagram وTikTok وLinkedIn وX وFacebook وYouTube. يُختار لكل حملة ما يناسب هدفها وجمهورها، دون فرض كل المنصات أو الصيغ.
 
-يدعم الإصدار الأول Instagram وTikTok وLinkedIn وX، بينما يؤجل Facebook وYouTube إلى إصدارات لاحقة.
+### Facebook وYouTube
+
+يدعم Facebook منشورات الصفحات النصية والمصورة، والصور المفردة والمتعددة أو الكاروسيل عندما تدعمها الأداة والصيغة، وReels وStories وأوصاف الفيديو والتعليقات المصاحبة والدعوات للتفاعل. يُعاد تكييف محتوى Instagram لجمهور Facebook، مع خطة نشر وقياس مناسبة، دون نسخه تلقائيًا.
+
+يدعم YouTube خطط وسيناريوهات Shorts والفيديو الطويل، وبنية المشاهد والنص المنطوق والظاهر على الشاشة، والعناوين والأوصاف والكلمات الموضوعية وموجز الصورة المصغرة ونصها. تُضاف الترجمة وملفاتها وCommunity Posts بحسب الأدوات ودعم الحساب، وتُنتج المقتطفات من مادة فيديو فعلية. يُحدد نطاق مدة الفيديو الطويل ويُؤكد عند تأثيره في الإنتاج، وتُبنى افتتاحية صادقة وأقسام مفيدة وخاتمة طبيعية.
+
+تُفصل السيناريوهات عن الفيديوهات الفعلية والصور المصغرة وCommunity Posts. لا يُعتبر السيناريو أو البرومبت فيديو جاهزًا للرفع، ولا تُنشأ فصول زمنية نهائية قبل وجود فيديو نهائي ومدد مقاسة. يتطلب إنتاج الفيديو أو الصورة المصغرة اختيار أداة وموافقتك، ثم فحص الملفات والصوت والصورة والترجمة المطلوبة.
+
+Publishing support depends on the actual tool, format, account and permissions. Facebook and YouTube guidance does not promise every format or an installed integration. Analytics use only returned metrics, keep platform definitions separate, and do not treat views alone as proof of success.
 
 ## Target Users | المستخدمون
 
@@ -130,6 +146,20 @@ Fikra follows this workflow:
 
 تبدأ فِكرة بفهم الفكرة والجمهور والهدف، ثم تستخرج رسالتها الأساسية، وتطوّر محورًا واحدًا أو زوايا متعددة بحسب الوضع، وتبني حملة مناسبة لكل منصة، وتراجعها قبل التسليم.
 
+## Choose the Next Step | اختر الخطوة التالية
+
+بعد اكتمال خطة حملة كاملة، إذا لم تحدد الخطوة التالية، تسأل فِكرة: **«اكتملت خطة الحملة. ماذا تريد أن أنفذ الآن؟»** وتعرض الخيارات المناسبة فقط مع شرح قصير: استلام النصوص والخطة، إنشاء الصور، إنتاج الفيديوهات، إنتاج جميع المواد، تجهيز المعاينة، أو النشر والجدولة بعد الموافقة، ومتابعة النتائج بعد النشر. لا تعرض فيديو لحملة لا تحتاجه، ولا تفترض توفر أداة أو موافقتك على النشر. إذا طلبت خطوة محددة تنتقل إلى مسارها مباشرة.
+
+يمكنك الاكتفاء بالنصوص، تصميم بعض الصور فقط، تعديل مادة، العودة أو التوقف، واختيار النشر اليدوي دون ربط حساب. قبل استخدام أداة تعرض فِكرة ما ستفعله وتطلب موافقتك، وتذكر التكلفة أو الأرصدة عندما تكون معلومة فقط. عند غياب الأداة تشرح الربط من وثائق رسمية، ثم تتحقق بأمان وتستكمل من موضع التوقف.
+
+عند اختيار جميع المواد، تُفصل النصوص المكتملة عن الوسائط الناقصة، وتُعرض الأدوات وخطة الإنتاج للموافقة، ثم تُنتج الملفات وتُفحص على مراحل. تتحدث الحزمة و`execution-status.md` بعد كل مرحلة مع حفظ الأصول والإصدارات المعدلة؛ لا يُعتبر السيناريو ملف فيديو مكتملًا.
+
+المعاينة تعرض لكل مادة المنصة والحساب المتصل والنص والملف والمقاس والصيغة والموعد والمنطقة الزمنية وحالة المراجعة والنواقص، دون نشر. النشر أو الجدولة يحتاجان موافقة مستقلة على المادة والحساب والموعد بعد المعاينة النهائية. التحليلات تستخدم البيانات المتاحة والمأذون بقراءتها فقط، وتفصل النتائج الفعلية عن الاستنتاجات والتوصيات.
+
+يمكن أن تتضمن الخطوة التالية، بحسب المواد المطلوبة: تصميم منشورات Facebook، إنتاج Facebook Reel أو YouTube Short أو فيديو YouTube طويل، إنشاء الصورة المصغرة، وتجهيز المعاينة ثم الرفع أو الجدولة بعد الربط والمعاينة والموافقة.
+
+For full campaigns with no chosen next step, Fikra offers a short, relevant menu. Specific requests bypass it. Each chosen route preserves user scope, tool approvals and resumable progress; preview never publishes, publication requires its own final approval, and analytics use observed data only. See the [guided execution workflow](fikra/references/execution-and-connections.md).
+
 ## Safety and Credibility | الأمان والمصداقية
 
 Fikra does not:
@@ -192,13 +222,26 @@ Before each publication, scheduling operation, or consequential external change,
 
 قبل كل نشر أو جدولة أو تعديل خارجي مؤثر، تُعرض معاينة للمحتوى والوسائط والحساب والمنصة والموعد والمنطقة الزمنية وتُطلب موافقة صريحة مباشرة. الموافقة على إعداد الحملة لا تعني الموافقة على نشرها. تُراعى أقل الصلاحيات والتكلفة، وتُعرض النتيجة الفعلية بما فيها الفشل أو النجاح الجزئي.
 
+Before creating or editing any media, including with built-in tools, Fikra names the discovered tool, describes the output and known costs, and waits for explicit permission. When several tools fit, it compares them and leaves the choice to you. Video production may require separately authorized tools for scenes, voiceover and editing; a script or prompt is not a finished video. Original files are preserved and edits are versioned and inspected.
+
+قبل إنشاء أي وسائط أو تعديلها، حتى بأداة مدمجة، تعرض فِكرة اسم الأداة والمخرجات والتكلفة المعلومة وتنتظر إذنك الصريح. عند وجود بدائل، تقارنها وتترك الاختيار لك. ربط الحساب وقراءة التحليلات لا يمنحان موافقة على النشر؛ وتُطلب موافقة مستقلة إذا احتاجت التحليلات صلاحية جديدة.
+
+A complete campaign requested as saved files gets its own local `output/<campaign-name>/` package with `campaign.md`, `README.md`, `execution-status.md`, platform copy/scripts, real media and production prompts. Pending files are tracked without fake media; interrupted work resumes in the same package. `/output/` is ignored by Git and must not contain secrets, personal information or customer data. Text-only requests do not force file creation.
+
+عند طلب حفظ حملة كاملة، تُجمع ملفاتها داخل مجلد مستقل في `output/`، مع خطة الحملة ودليل الاستخدام وحالة كل مخرج. تبقى الملفات محلية ومتجاهلة في Git، وتُستكمل العناصر الناقصة داخل الحزمة نفسها دون استبدال الأصول أو اختراع ملفات وسائط. لا تُحفظ أسرار أو بيانات شخصية أو بيانات عملاء.
+
+تُحفظ مواد Facebook وYouTube داخل `facebook/` و`youtube/` عند استخدامهما: نصوص الفيديو في `scripts/`، والفيديوهات الفعلية في `videos/`، والصور المصغرة الفعلية في `thumbnails/`، وملفات الترجمة الفعلية في `subtitles/`، والصور في `images/`، مع تحديث حالة كل عنصر دون ملفات وهمية.
+
+يُعرض اسم صفحة Facebook أو قناة YouTube بعد التحقق الآمن من الاتصال. ربط Facebook لا يمنح إذنًا لـInstagram أو العكس، وربط قناة YouTube لا يجيز الرفع. لكل رفع أو نشر أو جدولة موافقة مستقلة؛ النتائج الغامضة لا تُعاد تلقائيًا.
+
+إدارة الإعلانات المدفوعة والميزانيات والاستهداف والفوترة خارج هذا الإصدار وتحتاج وضعًا مستقلًا لاحقًا. لا تُنشئ فِكرة أو تطلق إعلانات Facebook أو YouTube؛ يمكنها كتابة فكرة أو مسودة محتوى إعلاني عند الطلب فقط.
+
 See [Execution and Connections](fikra/references/execution-and-connections.md) for the complete workflow.
 
 ## Roadmap | خريطة التطوير
 
 Planned future work may include:
 
-- Facebook and YouTube support
 - Additional Arabic dialects
 - Content archive analysis
 - Comment-to-idea workflows
