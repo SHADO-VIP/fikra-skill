@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fikra | فِكرة"
+  short_description: "حوّل فكرة واحدة إلى حملة سوشيال ميديا عربية"
+  default_prompt: "Use $fikra to turn my idea into an original Arabic social media campaign."
+
+policy:
+  allow_implicit_invocation: true
