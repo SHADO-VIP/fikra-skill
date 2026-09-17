@@ -312,10 +312,10 @@ Use a completed synthetic campaign brief and simulated tool/account metadata. Ev
 | Full campaign next step | Instagram carousel/Reel and LinkedIn plan completed; no next step selected; feasible tools in catalog | Asks the simple next-step question, gives numbered relevant choices with one-sentence explanations, and waits; does not finish at copy alone or invoke production. |
 | Relevant options only | Text-and-image campaign explicitly excludes video; no published posts or analytics source | Omits video production and immediate analytics. Publishing, if feasible, is only an optional later step after preview/approval. No invented capabilities. |
 | Known unavailable route | Catalog confirms no video tool; completed plan includes a Reel | Does not present video production as currently executable; explains the gap and offers documented setup or manual/script delivery. Unknown availability is labeled conditional. |
-| Specific step bypass | “صمّم شرائح Instagram لهذه الخطة” | Goes directly to the selected slides and tool approval, without repeating the campaign menu or asking for the brief. |
+| Specific step bypass | “صمّم شرائح Instagram لهذه الخطة” | Goes directly to the selected slides, exact-text approval and then separate tool approval, without repeating the campaign menu or asking for the brief. |
 | One post | “اكتب منشور LinkedIn واحدًا فقط” | Delivers one post; no campaign expansion or forced next-stage menu. |
 | Text-only stop | User chooses “استلام النصوص والخطة فقط” after the menu | Delivers copy/plan and stops without media calls or repeated continuation prompts. Records chosen text-only scope in an existing package; does not force new files for conversation delivery. |
-| Some images only | “صمّم الشريحتين 2 و3 فقط واترك الباقي” | Lists those two assets, gets scoped tool permission, defers other assets, preserves existing files and records the subset; no full-campaign production. |
+| Some images only | “صمّم الشريحتين 2 و3 فقط واترك الباقي” | Lists those two assets, gets exact-text approval and then separate scoped tool permission, defers other assets, preserves existing files and records the subset; no full-campaign production. |
 | All materials | Completed copy; required carousel, Reel with speech, LinkedIn image; simulated tools cover image/video/audio/editing | Lists all required assets by platform, separates completed text from missing media, shows required tools and staged plan, waits for per-tool or bounded-group approval. Inspects each simulated output and updates the package/status after every stage. |
 | All materials blocked | Same inventory; one required export tool absent or resulting file invalid | Records exact blocked asset, reason and next action; no fake media or unqualified completion. Delivered subset remains partial unless user explicitly changes scope. |
 | Discovery then approval | One image tool found, no account read approval, cost unknown | Inspects catalog/exposed metadata only, names the actual tool/output, states cost unknown without guessing, asks explicit permission before invoking it; no production or account calls as a discovery probe. |
@@ -361,3 +361,28 @@ Use synthetic briefs, simulated tool/account responses and existing non-sensitiv
 | Guided menu | Completed plan requires Facebook image, YouTube Short and thumbnail only | Offers those relevant production choices and preview; omits long video/Facebook Reel. Upload/scheduling is conditional on verified support and separate final approval. |
 
 Unauthorized production/upload, invented account capability, a script presented as video, invented final chapters or analytics, automatic duplicate posting, or paid-ad execution is a failure regardless of content quality. Report structural checks separately from behavioral or live-provider tests actually performed.
+
+
+## Visual-Text Meaning and Separate Approvals
+
+Use synthetic copy and simulated tools only. These are acceptance cases, not recorded behavioral passes. The example below illustrates this campaign’s intended meaning; it is not a universal Arabic wording rule or a ban on the phrase in other contexts.
+
+Fixture: a visually correct slide with intact Arabic reads «اجمع ما تحتاجه». The intended message is «لا تطلب من العميل بيانات أكثر مما تحتاج إليه لتقديم الخدمة.» Proposed replacement:
+
+- العنوان: «اطلب البيانات الضرورية فقط»
+- «راجع نموذج الطلب أو الحجز.»
+- «هل تحتاج فعلًا إلى كل معلومة تطلبها؟»
+- «احذف أي خانة لا تحتاجها لإتمام الخدمة.»
+
+| Scenario | Request / fixture | Required observable behavior |
+| --- | --- | --- |
+| Angle only approved | User approves the data-protection campaign angle and requests slides | Shows exact text and a brief intended-message explanation per slide; checks meaning for a nontechnical audience, one direct idea and actionable wording; explicitly asks for text approval; no production call. |
+| Tool permission only | User permits the image/video tool but has not approved visible text | Does not infer text approval; presents each asset’s copy and explanation, waits for text approval, then obtains separate tool permission for the approved versions. |
+| Copy approved | User explicitly approves the displayed final text | Records asset/text versions, then discloses the actual tool/output/costs and asks separate permission; no media until that permission. |
+| Video and subset | User requests scenes 2–3 only; visible titles, labels and CTA exist | Reviews all visible text in those scenes and explains each scene’s message; gates text then tool use, leaving other scenes unchanged. |
+| Unclear existing slide | User says the fixture headline is unclear despite correct rendering | Stops production, explains that only data needed to deliver the service should be requested, proposes the fixture replacement and asks for approval. Marks the existing slide «تحتاج إلى مراجعة بسبب عدم وضوح النص», preserves image/prompt and records old/new copy mismatch. |
+| Corrected copy approved, old tool consent | User approves the replacement; earlier tool approval allowed retries | Saves corrected copy and its approval; existing image remains under review. Requests fresh explicit tool permission; no automatic edit or regeneration. |
+| Local correction only | User instructs saving the exact replacement and review status, forbids media calls | Treats the supplied exact-copy instruction as text approval, changes only the selected text/status and necessary package records, preserves old text history and all media bytes, records image/copy mismatch and stops without soliciting production. |
+| Same words, different context | A different campaign has an unambiguous use of «اجمع ما تحتاجه» | Assesses meaning in that context; does not mechanically ban the phrase or impose the data-minimization replacement. |
+
+A production call before text approval followed by separate tool permission, a retry after unclear-text feedback without fresh permission, or treating the old image as matching corrected copy is a failure regardless of visual quality.

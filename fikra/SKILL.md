@@ -70,7 +70,7 @@ If the campaign mode is unspecified, ask: «هل تريد حملة مختصرة 
    - Repurposing map
    - Execution card
 
-7. Review the complete package before delivery.
+7. Review the complete package before delivery. Before image/video production or editing, follow the mandatory [visual-text approval gate](references/execution-and-connections.md#mandatory-visual-text-review-and-approval): campaign idea/angle approval → final on-image/on-screen text approval → separate production-tool permission.
 
 ## Guide the next step
 

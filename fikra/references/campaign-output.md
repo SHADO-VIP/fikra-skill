@@ -188,11 +188,12 @@ Include:
 - Composition
 - Color and mood
 - Required people, products, objects, or locations
-- Cover text
+- Exact final text for every visual asset: headline, body, call to action and any other visible text, arranged by slide/scene and version
+- A brief plain-language explanation of each slide/scene’s intended message, kept separate from the text to render
 - Important brand elements
 - Elements to avoid
 
-When production is requested, follow [execution-and-connections.md](execution-and-connections.md). Distinguish a visual brief or script from an actual generated asset. Deliver and inspect real image/design, video, or audio files when tools permit; report missing outputs accurately.
+Present this copy sheet for the [mandatory visual-text review and approval](execution-and-connections.md#mandatory-visual-text-review-and-approval) before production. Distinguish a visual brief or script from an actual generated asset. Deliver and inspect real image/design, video, or audio files when tools permit; report missing outputs accurately.
 
 ## 9. Captions, Keywords, and Hashtags
 

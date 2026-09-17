@@ -57,6 +57,10 @@ Use only when the user requests it or the intended audience clearly requires it.
 - Avoid repeating the same idea using synonyms.
 - Do not add diacritics unless they prevent ambiguity or are requested.
 
+## Meaning Clarity in Visual Copy
+
+Review meaning separately from grammar, spelling and correct Arabic rendering. Give each slide or scene one clear, direct idea. Read its headline and body as a nontechnical viewer would, without the campaign explanation: can they identify the intended message and a concrete action? Replace generic or ambiguous phrases, unexplained terms, and wording that could imply the opposite of the intended message. Do not rely on an explanatory caption to rescue unclear on-image text.
+
 ## Common Problems to Avoid
 
 Avoid:
