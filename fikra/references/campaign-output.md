@@ -1,6 +1,6 @@
 # Campaign Output
 
-Use this reference when producing a complete Fikra campaign or a short-video package.
+Use this reference when producing either Fikra campaign mode or a short-video package.
 
 Adapt the amount of output to the user's request. If the user asks for one platform or one format, provide only the relevant sections rather than forcing a full campaign.
 
@@ -13,9 +13,25 @@ Adapt the amount of output to the user's request. If the user asks for one platf
 - Clearly mark assumptions, placeholders, and claims requiring evidence.
 - Do not repeat the same explanation in several sections.
 
-## Complete Campaign Structure
+## Mode Selection
 
-Use the following order when the user requests a complete campaign.
+If a campaign mode is missing, ask whether the user wants حملة مختصرة or حملة متكاملة before producing the campaign. Honor an explicitly requested single deliverable or revision without expanding scope. Output size does not authorize media generation, publishing, or account access.
+
+## Concise Campaign (حملة مختصرة)
+
+Deliver a compact, usable package:
+
+1. A short objective/audience summary and one focused angle.
+2. Complete copy for every requested platform, adapted to its role and format, with its caption and call to action.
+3. A brief video script with target duration, hook, spoken text, a compact shot sequence, and ending.
+4. Visual direction covering composition, orientation, brand elements, and on-screen text.
+5. Relevant credibility notes and delivery status.
+
+Do not add the full angle bank, A/B plan, carousel, repurposing map, or execution calendar unless requested. A brief must remain practical and ready to use, not merely an outline.
+
+## Comprehensive Campaign (حملة متكاملة)
+
+Use the structure below: multiple angles, detailed platform drafts, full carousel copy, a full short-video script, testing alternatives, repurposing, execution schedule, and indicators. Adapt carousel delivery to the selected platform; do not add an unrequested platform. If the user explicitly excludes a format, respect that and state the scope adjustment.
 
 ## 1. Campaign Summary
 
@@ -164,7 +180,7 @@ Include:
 - Important brand elements
 - Elements to avoid
 
-Do not claim that a finished image or video has been created.
+When production is requested, follow [execution-and-connections.md](execution-and-connections.md). Distinguish a visual brief or script from an actual generated asset. Deliver and inspect real image/design, video, or audio files when tools permit; report missing outputs accurately.
 
 ## 9. Captions, Keywords, and Hashtags
 
@@ -184,7 +200,7 @@ Provide two meaningful alternatives for:
 - Title or cover text
 - Call to action
 
-State what difference each alternative tests, such as curiosity versus direct value.
+State what difference each alternative tests, such as curiosity versus direct value. For each A/B comparison, vary one element, identify the audience and observation window, primary metric, and decision rule. Use account evidence when available; mark unmeasured expectations as hypotheses. A testing plan does not authorize publishing either variant.
 
 ## 11. Repurposing Map
 
@@ -203,8 +219,8 @@ Repurposed content must add a new function or perspective.
 
 Use a compact table with:
 
-| Platform | Format | Objective | Required Visual | Suggested Timing | Primary Indicator |
-| --- | --- | --- | --- | --- | --- |
+| Platform | Format | Objective | Required Visual | Suggested Date/Time and Timezone | Owner / Dependency | Primary Indicator |
+| --- | --- | --- | --- | --- | --- | --- |
 
 Treat timing as a testable suggestion, not a universal fact.
 
@@ -218,7 +234,7 @@ Choose an indicator aligned with the objective, such as:
 - Clicks
 - Qualified inquiries
 
-Do not promise a specific result.
+Do not promise a specific result. Include a measurement window and baseline when known; otherwise mark them as unmeasured. This is a proposed execution schedule, not confirmation of scheduled posts. If analytics are requested, report source, account, period, limitations, and evidence-led improvements using [execution-and-connections.md](execution-and-connections.md).
 
 ## 13. Quality Review
 
@@ -232,6 +248,12 @@ Conclude with:
 - Any remaining action required from the user
 
 Do not mark the campaign ready when a material unsupported claim remains.
+
+## Production and Execution Handoff
+
+List actual files/links separately from scripts and briefs. For manual publishing, package platform copy, captions, carousel text, available assets, production instructions for missing media, and proposed timing. Do not call missing media finished.
+
+For tool-backed execution, use the final per-operation preview, immediate approval, and result reporting defined in [execution-and-connections.md](execution-and-connections.md). “Ready for delivery” describes content quality, not permission or proof of publication.
 
 ## Short Request Mode
 

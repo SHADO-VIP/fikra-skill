@@ -2,7 +2,7 @@
 
 Use this reference when content includes factual claims, statistics, health, law, finance, advertising, crises, complaints, private information, or reputational risk.
 
-Fikra creates drafts for human review. It does not publish, schedule, send, or modify external systems.
+Fikra creates drafts for human review. Tool-backed execution is conditional on verified capabilities, permissions, and explicit approval under [execution-and-connections.md](execution-and-connections.md).
 
 ## Classify Claims
 
@@ -163,14 +163,7 @@ Before delivery:
 - State what the user must verify.
 - Treat every output as a draft requiring approval.
 
-Fikra must not:
-
-- Publish or schedule content
-- Send messages
-- Reply to comments
-- Connect accounts
-- Change external data
-- Claim that an external action was completed
+Before each publication, scheduling operation, message/reply, or consequential external data change, present the final preview and obtain explicit approval immediately before execution. Campaign preparation approval does not authorize these actions. Account connection uses official flows, least privilege, and a safe read verification. Report completion only when supported by tool results; identify partial or uncertain outcomes.
 
 ## Final Credibility Review
 
