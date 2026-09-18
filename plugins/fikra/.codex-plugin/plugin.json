@@ -1,0 +1,21 @@
+{
+  "name": "fikra",
+  "version": "0.1.0",
+  "description": "Arabic-first social media campaign planning with separate content and execution approvals.",
+  "author": {
+    "name": "Shadia Sarhan"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Fikra | فِكرة",
+    "shortDescription": "حملات عربية مختصرة أو متكاملة",
+    "longDescription": "Create platform-specific Arabic campaign drafts and guide optional execution through verified tools and separate approvals. No integrations are bundled.",
+    "developerName": "Shadia Sarhan",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "استخدم Fikra لإعداد حملة عربية مختصرة لمنصة Instagram."
+    ]
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Fikra | فِكرة"
+  short_description: "حملات عربية مختصرة أو متكاملة وتنفيذ حسب الصلاحيات"
+  default_prompt: "Use $fikra to create an original Arabic campaign; ask whether I want concise or comprehensive output and verify capabilities before any requested execution."
+
+policy:
+  allow_implicit_invocation: true

@@ -192,6 +192,9 @@ fikra-skill/
 │       ├── execution-and-connections.md
 │       ├── platforms.md
 │       └── safety-and-credibility.md
+├── plugins/fikra/            # generated Codex distribution
+├── scripts/build_plugin.py
+├── docs/                    # compatibility and release evidence
 ├── LICENSE
 └── README.md
 ```
@@ -204,9 +207,20 @@ Clone the repository:
 git clone https://github.com/SHADO-VIP/fikra-skill.git
 ```
 
-Place the repository's inner [`fikra/`](fikra/) folder, containing [`SKILL.md`](fikra/SKILL.md), in the skills directory supported by your agent environment. Keep the folder named `fikra` to match `name: fikra` in `SKILL.md`. Installation locations and capabilities may differ between ChatGPT/Codex, Claude, Replit, and other compatible environments, so follow the current documentation for the platform you use.
+تعليمات التثبيت والاستخدام منفصلة في [دليل Codex وClaude وReplit](docs/compatibility.md)، مع جدول يبيّن ما اختُبر فعلًا وما يحتاج اختبارًا حيًا. يبقى [`fikra/`](fikra/) مصدر الحقيقة المشترك.
 
-نزّل المستودع، ثم ضع مجلد [`fikra/`](fikra/) الداخلي الذي يحتوي على [`SKILL.md`](fikra/SKILL.md) في مسار المهارات المعتمد في المنصة التي تستخدمها. أبقِ اسم المجلد `fikra` ليطابق `name: fikra` داخل `SKILL.md`. قد تختلف طريقة التثبيت والإمكانات بين المنصات.
+## Codex Plugin v0.1
+
+Build and verify the generated package from the repository root:
+
+```bash
+python3 scripts/build_plugin.py
+python3 scripts/build_plugin.py --check
+```
+
+Distribute [`plugins/fikra/`](plugins/fikra/), including its hidden `.codex-plugin/` directory and license. Its skill files are generated from `fikra/`; never edit the generated copy. No MCP, Apps, Hooks or marketplace are bundled. Installation requires a real configured marketplace; see the [documented installation and validation steps](docs/compatibility.md#codex-حزمة-plugin).
+
+لنتائج الاختبارات وحدود الجاهزية، راجع [تقرير v0.1](docs/release-v0.1.md). لا يعني التوافق البنيوي اختبارًا حيًا على Claude أو Replit.
 
 ## Current Scope | نطاق الإصدار الحالي
 
