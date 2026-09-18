@@ -8,6 +8,10 @@ Fikra analyzes an idea before writing, proposes different content angles, adapts
 
 تحلل فِكرة الموضوع قبل الكتابة، وتقترح زوايا مختلفة، وتكيّف المحتوى لكل منصة، وتنتج سيناريوهات للفيديوهات القصيرة والطويلة وموجزات بصرية، ثم تراجع الحملة من حيث المصداقية والأصالة وجودة العربية وقابلية التنفيذ.
 
+## How Fikra Works | كيف تعمل فِكرة؟
+
+![طريقة استخدام Fikra](docs/images/fikra-how-it-works.png)
+
 ## Campaign Modes | أوضاع الحملة
 
 - **Concise / مختصرة:** One angle, ready-to-use content for every requested platform, a brief video script, visual direction, and a call to action. محور واحد ومحتوى جاهز لكل منصة وسيناريو مختصر وتوجيه بصري ودعوة للتفاعل.
